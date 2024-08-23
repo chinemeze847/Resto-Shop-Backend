@@ -66,7 +66,7 @@ The application will be available at http://127.0.0.1:8000.
 
 ## API Endpoints
 ### List Food Items
-- URL: /api/food-items/
+- URL: `/api/food-items/`
 - Method: GET
 - Description: Retrieves a list of food items.
 - Response:
@@ -83,7 +83,7 @@ The application will be available at http://127.0.0.1:8000.
 ]
 ```
 ### Food Item Details
-- URL: /api/food-items/<id>/
+- URL: `/api/food-items/\<id>/`
 - Method: GET
 - Description: Retrieves details of a specific food item.
 - Response:
