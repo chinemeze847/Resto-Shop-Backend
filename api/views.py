@@ -52,6 +52,30 @@ food_items = [
         "price": "10.99",
         "image": "https://eze-bucket.s3.amazonaws.com/Spicy_Tuna_Roll.jpg",
         "more_details": "Ingredients: Ground beef, lasagna noodles, marinara sauce, ricotta cheese, mozzarella. Calories: 700. Chef's note: A hearty dish for dinner."
+    },
+    {
+        "id": 7,
+        "name": "Beef Lasagna",
+        "description": "Layered pasta with ground beef, cheese, and marinara sauce.",
+        "price": "$14",
+        "image": "https://eze-bucket.s3.amazonaws.com/Beef_Lasagna.jpg",
+        "more_details": "Ingredients: Ground beef, lasagna noodles, marinara sauce, ricotta cheese, mozzarella. Calories: 700. Chef's note: A hearty dish for dinner."
+    },
+    {
+        "id": 8,
+        "name": "Miso Soup",
+        "description": "Traditional Japanese soup with tofu, seaweed, and green onions.",
+        "price": "$5",
+        "image": "https://eze-bucket.s3.amazonaws.com/Miso_Soup.jpg",
+        "more_details": "Ingredients: Miso paste, tofu, seaweed, green onions. Calories: 90. Chef's note: A comforting start to any Japanese meal."
+    },
+    {
+        "id": 9,
+        "name": "Chocolate Lava Cake",
+        "description": "Warm chocolate cake with a gooey center, served with vanilla ice cream.",
+        "price": "$8",
+        "image": "https://eze-bucket.s3.amazonaws.com/Chocolate_Lava_Cake.jpg",
+        "more_details": "Ingredients: Dark chocolate, butter, sugar, eggs, flour. Calories: 550. Chef's note: The perfect indulgent dessert."
     }
 ]
 
